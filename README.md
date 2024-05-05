@@ -18,6 +18,13 @@ This project aims to automate testing of the SeeingAI application using a partia
 - SeeingAI application APK file
 - Test device/emulator
 
+## Picture-demo
+<img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Pineapple.png" alt="Pinapple-demo" width="200" height="350">
+
+<img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Scripting.png" alt="Scripting-demo" width="500" height="320">
+
+
+
 ## Example Expected Results File
 ```
 A group of green peppers
