@@ -20,8 +20,9 @@ This project aims to automate testing of the SeeingAI application using a partia
 
 ## Picture-demo
 <img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Pineapple.png" alt="Pinapple-demo" width="200" height="350">
-
-<img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Scripting.png" alt="Scripting-demo" width="500" height="320">
+<img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Scripting.png" alt="Scripting-demo" width="500" height="300">
+<img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Framework.png"alt="Scripting-demo" width="300" height="200">
+<img src="https://github.com/umangptl/Test-Automation-SeeingAI/blob/main/Picture-demo/Stats.png"alt="Scripting-demo" width="300" height="200">
 
 
 
